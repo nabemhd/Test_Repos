@@ -1,0 +1,10 @@
+ec2-34-251-20-2.eu-west-1.compute.amazonaws.com
+
+which park-shell
+run this comment to access park-shell -->/usr/bin/spark-shell
+cd /usr/bin/ ---> spark-shel
+
+Hadoop url 
+http://ec2-34-251-20-2.eu-west-1.compute.amazonaws.com:8088/cluster
+HUE 
+http://ec2-34-251-20-2.eu-west-1.compute.amazonaws.com:8888/hue/accounts/login?next=/
