@@ -1,0 +1,40 @@
+Technical requirements:
+
+1) Download Spark - https://www.apache.org/dyn/closer.lua/spark/spark-3.1.3/spark-3.1.3-bin-hadoop2.7.tgz
+2) Download Hadoop - https://hadoop.apache.org/release/2.8.0.html + winutils https://github.com/cdarlint/winutils + rewrite bin folder
+3) Install Java 8 or 11  
+4) Add to Environment 
+HADOOP_HOME:C:\hadoop-2.8.0
+SPARK_HOME:C:\Spark2\spark-3.1.3-bin-hadoop2.7
+JAVA_HOME:C:\Program Files\Java\jdk1.8.0_202
+
+5) Add to path
+- C:\hadoop-2.8.0\bin
+- C:\Spark2\spark-3.1.3-bin-hadoop2.7\bin
+- C:\Program Files\Java\jdk1.8.0_202\bin
+
+6) Install docker desktop - https://docs.docker.com/desktop/windows/install/
+7) Install putty - https://www.putty.org/
+
+Python
+6) PyCharm - https://www.jetbrains.com/ru-ru/pycharm/download/#section=windows
+7) Start - PySpark-shell 
+8) Install Python 3.7 by Windows Store
+9) Проект - https://github.com/vadopolski/eas-017-RDD-py
+
+Scala
+-	Install Idea with Scala Plugin
+
+
+docker loging
+
+ID: nabe12
+Email: nabe.mohamed@dxc.com
+password: Welcome2022
+
+Java oracle account 
+Email: nabe.mohamed@dxc.com
+password: Welc0me2022@
+
+Java path C:\Program Files\Java\jdk-11.0.15.1\bin
+
