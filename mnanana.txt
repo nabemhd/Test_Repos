@@ -1,0 +1,26 @@
+22893 22893 
+
+[FP- 306] [Date Range Search Issue]
+
+IBM Refference: TS008660189
+
+JiraSM refference:  FP-306
+
+Ticket created: 08.03.2022
+
+Ticket resolved: Closed
+
+Description:
+
+When creating a search the "Alert Date" field is several days behind the current date. And the "Date of Loss" field is over a month old, so we cannot search loss that occurred within the last month.
+
+As per our dev team, the Date of Loss is based on the earliest date of the cases in the in basket. This is working as designed.
+
+Assessment Forwarder
+
+
+Dear ERIE,
+
+Please be aware that due to large number of claims (22893), a delay is expected regarding file corresponding to May 25th 2022. File is estimated to be ready at around 2:00PM EST. We will notify you in case of any changes  Thank you 
+
+
